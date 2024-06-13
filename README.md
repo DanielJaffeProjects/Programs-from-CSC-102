@@ -1,2 +1,2 @@
 # Programs-from-csc-102
-These are the programs I did in computer science 2
+In my Computer Science 102 course, I delved deeper into programming and software development, building on the foundational knowledge from my previous course. Using Python I tackled more advanced projects that involved inheritance classes, abstract classes, recursion, and graphic user interfaces(GUIs). These experiences enhanced my problem-solving skills and solidified my understanding of essential concepts.
