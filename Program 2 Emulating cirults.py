@@ -149,7 +149,7 @@ def circuit_drawing_2(circuit_drawing_inputs):
 # Inputs
 and_gate_inputs = [AND_Gate(0, 0), AND_Gate(0, 1), AND_Gate(1, 0), AND_Gate(1, 1)]
 or_gate_inputs = [OR_Gate(0, 0), OR_Gate(0, 1), OR_Gate(1, 0), OR_Gate(1, 1)]
-not_gate_inputs = [not_Gate(0), not_Gate(1), not_Gate(0), not_Gate(1)]
+not_gate_inputs = [not_Gate(0), not_Gate(1)]
 circuit_drawing_inputs = [(0, 0, 0), (0, 0, 1), (0, 1, 0), (0, 1, 1), (1, 0, 0), (1, 0, 1), (1, 1, 0), (1, 1, 1)]
 
 # Retrieving from subroutine
