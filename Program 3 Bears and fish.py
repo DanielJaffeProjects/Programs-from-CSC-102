@@ -1,7 +1,7 @@
 # Program 3 Bears and fish
 # This program runs a simulation between bears and fish in a ecosystem. We look at different scenarios like eating mating and fighting and how it effects the ecosystem.
 # Daniel Jaffe
-#                            Date modified: 6/19/24
+# Date modified: 6/19/24
 
 from abc import ABC, abstractmethod
 from random import randint
