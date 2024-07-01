@@ -82,10 +82,7 @@ class Bear(Animal):
             return self
     # Two bears fight one bear wins and takes up the other space
     def fight(self, other):
-        if self._strength > other._strength:
-            return "B"
-        if other._strength > self._strength:
-            return "_"
+        return "B" if self._strength > other._strength else "_"
 
     # Bears mate and new bear is formed
     def mate(self, other):
